@@ -1,0 +1,8 @@
+{
+    "open_browser": "ctrl+t",
+    "close_window": "alt+f4",
+    "maximize_window": "win+up",
+    "minimize_window": "win+down",
+    "create_new_project": "create_new_project",
+    "settings": "win+i"
+}
