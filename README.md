@@ -2,6 +2,6 @@
 
 Tento projekt je jednoduchá AI pro ovládání PC pomocí hlasových příkazů a strojového učení.
 
-## Instalace
+## Stav
 
-1. Nainstaluj závislosti:
+Učení jak funguje machine learning modely
